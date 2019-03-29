@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-codec\commons-codec\1.4\commons-codec-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4216af16d38465bbab0f3dff8efa14204f7a399a">
+        <dex dex="E:\RINKU ANDROID\AR Video Project\online\app\build\intermediates\pre-dexed\debug\commons-codec-1.4_e71e706232fae9e0c25c51a733a472daba4f64c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\RINKU ANDROID\AR Video Project\online\app\src\main\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41d57a73e39cc4f881f7409fb36d82373706a3b1">
+        <dex dex="E:\RINKU ANDROID\AR Video Project\online\app\build\intermediates\pre-dexed\debug\Vuforia_9327912ec4ca1c104d9a620d8aeec466f8bb4d24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\RINKU ANDROID\AR Video Project\online\app\src\main\org.apache.commons.io.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b90b6ac57cf27a2858eaa490d02ba7945d18ca7b">
+        <dex dex="E:\RINKU ANDROID\AR Video Project\online\app\build\intermediates\pre-dexed\debug\org.apache.commons.io_4851ac06ebef63cfcb5566337b493a259738a4e1.jar" />
+    </item>
+
+</items>
